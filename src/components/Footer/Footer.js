@@ -38,13 +38,13 @@ const Footer = () => {
                         </div>
                         <ul className="footer__contacts">
                             <li className="footer__contact">
-                                <LocalPhoneIcon /> <span>9915339557</span>
+                                <LocalPhoneIcon /> <span>9876543218</span>
                             </li>
                             <li className="footer__contact">
-                                <EmailIcon /> <span>kumarchandu9557@gmail.com</span>
+                                <EmailIcon /> <span>suave@email.com</span>
                             </li>
                             <li className="footer__contact">
-                                <LocationOnIcon /> <span>noida sec 66</span>
+                                <LocationOnIcon /> <span>Raipur, CG</span>
                             </li>
                         </ul>
                     </div>
@@ -73,7 +73,7 @@ const Footer = () => {
                 </div>
                 <div className="fotter__copyright__container">
                     <ul className='nav'>
-                        <li className="footer__copyright">©2024 chanduTech. |</li>
+                        <li className="footer__copyright">©2024 SUAV-E |</li>
                         <li className="footer__terms__condition"> | Terms & Condition |</li>
                         <li className="footer__privacy__policy">| Privacy Policy</li>
                     </ul>
